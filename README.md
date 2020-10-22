@@ -1,1 +1,1 @@
-Python character encoder
+Python string encoder
